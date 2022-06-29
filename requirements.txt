@@ -1,0 +1,10 @@
+jupyter
+pandas
+numpy
+matplotlib
+fastai
+albumentations
+scikit-image==0.17.2
+segmentation_models_pytorch
+pynvml
+kaggle
