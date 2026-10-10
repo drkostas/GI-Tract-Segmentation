@@ -1,3 +1,5 @@
+![GI-Tract-Segmentation](docs/images/banner.png)
+
 ## Install
 
 - Install Anaconda/Miniconda

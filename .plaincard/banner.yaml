@@ -1,0 +1,19 @@
+kind: banner
+name: GI-Tract-Segmentation
+line: Our entry for the Kaggle contest to outline the stomach and bowel in MRI scans.
+accent: teal
+diagram:
+- box:
+    text: MRI scan
+- arrow
+- box:
+    text: model
+- arrow
+- panes:
+    rows: 2
+    cols: 2
+    highlight:
+    - 1
+    - 0
+    label: outline
+    accent: true
